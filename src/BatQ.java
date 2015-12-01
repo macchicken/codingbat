@@ -1,5 +1,3 @@
-package codingbat;
-
 
 public class BatQ {
 	

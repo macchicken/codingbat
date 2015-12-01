@@ -1,4 +1,3 @@
-package codingbat;
 import java.lang.reflect.Method;
 
 

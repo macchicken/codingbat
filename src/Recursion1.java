@@ -1,4 +1,3 @@
-package codingbat;
 
 public class Recursion1 {
 
